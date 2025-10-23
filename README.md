@@ -1,4 +1,5 @@
-**Problem Statement**
+**Problem Statement**     
+
 Frontline teams at United Airlines are responsible for ensuring every flight departs on
 time and is operationally ready. However, not all flights are equally easy to manage.
 Certain flights pose greater complexity due to factors such as limited ground time,
@@ -10,7 +11,8 @@ risks missing opportunities for proactive resource planning across the airport.
 To address this, you are tasked with developing a Flight Difficulty Score that
 systematically quantifies the relative complexity of each flight using the datasets
 provided, which span two weeks of departures from Chicago O’Hare International
-Airport (ORD).
+Airport (ORD).    
+
 *Objective*
 The goal is to design a data-driven framework that:
 *Calculates a Flight Difficulty Score for each flight using flight-level, customer, and
