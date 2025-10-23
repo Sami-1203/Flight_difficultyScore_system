@@ -15,8 +15,8 @@ Airport (ORD).
 
 *Objective*
 The goal is to design a data-driven framework that:
-*Calculates a Flight Difficulty Score for each flight using flight-level, customer, and
+* Calculates a Flight Difficulty Score for each flight using flight-level, customer, and
 station-level data.
-*Identifies the primary operational drivers contributing to flight difficulty to enable
+* Identifies the primary operational drivers contributing to flight difficulty to enable
 proactive planning and optimized resource allocation.
 
